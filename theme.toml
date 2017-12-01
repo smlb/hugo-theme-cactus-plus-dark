@@ -1,0 +1,17 @@
+name = "Cactus Dark Plus"
+license = "MIT"
+licenselink = "https://github.com/smlb/hugo-theme-cactus-plus-dark/blob/master/LICENSE"
+description = "A minimalistic and responsive theme for bloggers."
+homepage = "https://github.com/nodejh/hugo-theme-simple"
+tags = ["blog", "disqus", "duoshuo", "google analytics", "baidu tongji", "rss", "syntax highlighting", "tags", "categories"]
+features = ["blog", "disqus", "duoshuo", "google analytics", "baidu tongji", "rss", "syntax highlighting", "tags", "categories"]
+min_version = 0.18
+
+[author]
+  name = "smlb"
+  homepage = "https://github.com/smlb"
+
+[[original]]
+  name = "Cactus"
+  homepage = "https://themes.gohugo.io/cactus/"
+  repo = "https://github.com/digitalcraftsman/hugo-cactus-theme"
